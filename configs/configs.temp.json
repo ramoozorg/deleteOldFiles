@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "ftp_account": {
+    "address": "127.0.0.1:21",
+    "username": "",
+    "password": "",
+    "deletable_files_path":""
+  }
+}
