@@ -1,4 +1,4 @@
-module ramooz.org/deleteOldBackup
+module ramooz.org/deleteOldFiles
 
 go 1.17
 
